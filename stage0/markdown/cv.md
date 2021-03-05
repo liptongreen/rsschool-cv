@@ -3,7 +3,7 @@
 **About myself:** I am a highly motivated, dynamically developing specialist. Responsibility and diligence are my strengths. I can easily perceive new information.  
 **Skills:** html5, css3, js(es6 and higher), ReactJS, API, Redux(basic)  
 **Example:**   
-```  
+``  
 import React from "react";
 import ShopHeader from "../shop-header";
 import { HomePage, CartPage } from "../pages";
